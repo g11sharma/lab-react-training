@@ -1,0 +1,6 @@
+.randomToto{
+    display: flex;
+    flex-direction: row;
+    border-style: solid;
+    margin-bottom: 20px;
+}
